@@ -1,7 +1,8 @@
 [
     {
         "id": "01",
-        "name": "HTML"
+        "name": "HTML",
+        "couresName": "HTML Certification Course"
     },
     {
         "id": "02",
@@ -9,26 +10,22 @@
     },
     {
         "id": "03",
-        "name": "JavaScript"
+        "name": "JavaScript",
+        "couresName": "JavaScript Certification Course"
     },
     {
         "id": "04",
-        "name": "React"
+        "name": "React",
+        "couresName": "React Certification Course"
     },
     {
         "id": "05",
-        "name": "Bootstrap"
+        "name": "Bootstrap",
+        "couresName": "Bootstrap Certification Course"
     },
     {
         "id": "06",
-        "name": "Tailwind"
-    },
-    {
-        "id": "07",
-        "name": "Git"
-    },
-    {
-        "id": "08",
-        "name": "All Courses"
+        "name": "Tailwind",
+        "couresName": "Tailwind Certification Course"
     }
 ]
