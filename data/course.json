@@ -1,6 +1,6 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "AB005",
         "course_id": "01",
         "title": "HTML Certification Course",
         "duration": "90",
@@ -11,7 +11,7 @@
         "details": "HTML Tutorial and ResourcesHTML is abbreviated as Hyper Text Mark up Language the most expanded language used  orldwide to display the result in the web pages. Learning HTML Tutorial helps to create your project in web development. Here you will learn how to build and run a basic HTML code with HTML elements and tags. It provides a way to create an ultimate quick esponsive website. And with HTML tutorials, we can get through a wide variety of examples; moreover, they are easy to learn. The course objectives include a basic introduction and a brief note on HTML elements. And the HTML version is very important though they have slight variations in the standard and functionalities. The html tutorial has experiments where we shall learn how things happen differently. By the end of this tutorial, one can create a web page or access them on tablets, phones, and laptops. Why do we need to learn HTML?Eventually, HTML helps structure the content of web pages, while CSS helps a designer beautifully display the web page. People always prefer to learn HTML as they could launch a good career as a web designer and shine well in the design industry.HTML essentials includes how to document a structure, text content like headings with different types, lists, adding comments, creation of forms, and tables."
     },
     {
-        "_id": "0282e0e58a5c404fbd15661f11c5ab9u",
+        "_id": "AB105",
         "course_id": "02",
         "title": "CSS Certification Course",
         "duration": "90",
@@ -22,7 +22,7 @@
         "details": "CSS Tutorial and Resources With a CSS tutorial, we can learn meaningful styles of the HTML document. CSS is defined as Cascading Style Sheet used for web designing. Guiding on this tutorial helps to have such good control over the design of a eb page. We can also do updation of the styles across a single document on the website. With a CSS tutorial, you can learn how to dd CSS with the HTML to a web page and other properties like font, text, Background, border, and Margins; padding also explains how to work together on a web page. Also covers the basics of CSS concepts and code for beginners. Along with them, you can get a lot of implementation programs for beginners to write and execute on the editor. To learn this tutorial, we need only simple tools like note pad++ or text editors as the HTML requires only a few plain text formats. Why do we need to learn CSS? Learning CSS would take to the different styles of the web pages. In other words,I can say that it simplifies the work by making web pages neat. Styling languages launched over the few years keeps style works organized. With this skill set, we have ustomized the web pages as needed. CSS is very important to make web pages a work of art. There are different ways of applying CSS to HTML with respective colors,borders, and selectors.The key advantage of learning CSS is creating a stunning layout with various effects in inline or external CSS files."
     },
     {
-        "_id": "0262e0e58a5c404fbd15261f11c5ab9u",
+        "_id": "AB205",
         "course_id": "03",
         "title": "JavaScript Certification Course",
         "duration": "90",
@@ -33,7 +33,7 @@
         "details": "JavaScript Tutorial and Resources JavaScript is cross-platform and open source. It is designed to create web applications and is very easy to understand and learn because it uses HTML.JavaScript is the most popular client-side scripting language used for web applications. All browsers support JavaScriptand it is set as default. JIn addition, javascript provides full integration with CSS and HTML. Why do we need to learn JavaScript? JavaScript is a scripting language different from java and is used as a frontend language. JavaScript uses HTML and CSS, and most browsers implement JavaScript. JSP javascript can be used in-game, app, and desktop application development. JavaScript has many frameworks like react, jQuery, and Angular.1) JavaScript: JavaScript is used to program the behavior of the web pages and what data we need to display to the user.2) CSS: We used to specify the webpages' design or layout and how they will display to the user. 3) HTML: is used to define the content of the web pages. It displays the data which extracts from the business logic.• It allows us to store our data in the local storage for further use.• We can also send a request to the server.• It can also show the dynamic user contact depending on our business logic or requirement.• It is also used for animation effects like sound and movement.Finally, • JavaScript provides us with various events depending on actions like keypresses, mouse click events, and pointer movement."
     },
     {
-        "_id": "0283e0e58a5c404fbd15261f11c5ab9u",
+        "_id": "AB305",
         "course_id": "04",
         "title": "React Certification Course",
         "duration": "90",
@@ -44,7 +44,7 @@
         "details": "React Native Tutorial React Native is a framework for building cross platform mobile applications.It uses react inside and native mobile components to build applications. React native is different from other cross-platform tools because of building applications with native components. You can use JavaScript, or JSX or TypeScript to write react-native components. You can create builds for IOS as well as Android both the platform with the same code base. React Native uses the basic concepts of React like JSX, states, and props the only difference is you would be writing native components and sometimes platform-specific components. This tutorial will help you to understand basic app development with React Native and it doesn’t matter if you know to react or not. Need of React Native Building cross-platform applications that can run on Android as well as IOS and others also. Your team would be handling a single code base, not like native development where you will be having different code bases for Android and IOS. Because using Native component react-native gives the feel of native application rather than a web component build application. Having a single code base helps in easy maintenance of code base and updates. React Native is built by Facebook so it has great support and a large community where you can get resources to build and optimize your application. React native is very suitable for building applications which doesn’t require much graphics performance as it requires in games. You have a choice to start development with Expo or bare React Native. You can decide on choosing from React Native or Expo largely depends on how you are going to build your application. If your application is going to have 3rd party native integrations then React Native is the choice or you just want a fast prototype or a minimal application then Expo would be a great choice."
     },
     {
-        "_id": "0282e0e58a5c409fbd15261f11c5ab9u",
+        "_id": "AB405",
         "course_id": "05",
         "title": "Bootstrap Certification Course",
         "duration": "90",
@@ -55,7 +55,7 @@
         "details": "Bootstrap Tutorial and Resources We believe that any business that runs online has one specific purpose: to engage the users. This can be done in N number of ways like business mode, business geography, and several others, to name a few. So with this varying need, we need a medium to cater to all these growing demands. Thanks to Bootstrap for being one such technology. So what is Bootstrap? It's a powerful toolkit with multiple useful applications like HTML, CSS, and Javascript for a good reason in developing web pages and applications. Why should we learn Bootstrap? Technology growth and acceptance in the user segments depends upon the specialties it can offer to its users. Let us see what and how things Bootstrap captures within it –Ease of availability – It is an open-source tool with easy user understanding features. Favorites – One of the most loved choices for developers and web developers. Demand – the tool has firmly held in the IT market since its inception due to its comprehensive capabilities and easy user interface.Frequent updates – being a free and open-source tool, Bootstrap offers a comprehensive amazing user experience for any queries related to bug fixes. Yes, Bootstrap comes with surprisingly quick updates. As a result, bugs or issues in previous versions rarely occur in its upcoming releases. Documentation availability – A detailed bootstrap documentation is available for millions of users across the globe. With complete demos and examples, Bootstrap offers its users complete and details documentation on several issues.The Bootstrap gives a completely consistent performance."
     },
     {
-        "_id": "0282e0e58a5c404fbd95261f11c5ab9u",
+        "_id": "AB605",
         "course_id": "06",
         "title": "XML Certification Course",
         "duration": "90",
