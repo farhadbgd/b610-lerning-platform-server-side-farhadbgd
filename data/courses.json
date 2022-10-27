@@ -1,32 +1,44 @@
 [
     {
         "id": "01",
+        "_id": "AB005",
         "name": "HTML",
+        "fee": "USD 89.45",
         "couresName": "HTML Certification Course"
     },
     {
         "id": "02",
+        "_id": "AB105",
         "name": "CSS",
+        "fee": "USD 89.45",
         "couresName": "CSS Certification Course"
     },
     {
         "id": "03",
+        "_id": "AB205",
         "name": "JavaScript",
+        "fee": "USD 89.45",
         "couresName": "JavaScript Certification Course"
     },
     {
         "id": "04",
+        "_id": "AB305",
         "name": "React",
+        "fee": "USD 89.45",
         "couresName": "React Certification Course"
     },
     {
         "id": "05",
+        "_id": "AB405",
         "name": "Bootstrap",
+        "fee": "USD 89.45",
         "couresName": "Bootstrap Certification Course"
     },
     {
         "id": "06",
-        "name": "Tailwind",
-        "couresName": "Tailwind Certification Course"
+        "_id": "AB605",
+        "name": "XML",
+        "fee": "USD 89.45",
+        "couresName": "XML Certification Course"
     }
 ]
